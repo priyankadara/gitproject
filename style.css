@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-  color: white;
+  background-color:hsl(300, 76%, 72%);
+  color:white;
   text-align: center;
 }
 
